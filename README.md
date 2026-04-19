@@ -27,19 +27,17 @@ A modern, responsive eCommerce web application built using **React** and **Tailw
 
 ## 📸 Screenshots
 
-Add your project screenshots below:
-
 ### 🏠 Home Page
-![Home Page]([./screenshots/home.png](https://github.com/Wonde-Dev/E-commerce-web/blob/17ecee35a648f82eefc550af5dccde0fce964a8c/home.png))
+![Home Page](https://raw.githubusercontent.com/Wonde-Dev/E-commerce-web/main/home.png)
 
 ### 🛍️ Product Page
-![Product Page]([./screenshots/product.png](https://github.com/Wonde-Dev/E-commerce-web/blob/b58ee9d65634e6efa2ceead31253873fd88eafab/products.png))
+![Product Page](https://raw.githubusercontent.com/Wonde-Dev/E-commerce-web/main/products.png)
 
 ### 🛒 Sales Page
-![Cart Page]([./screenshots/cart.png](https://github.com/Wonde-Dev/E-commerce-web/blob/7f7a80535464ad23c76e7d2916ee2b53374b887c/sales.png))
+![Sales Page](https://raw.githubusercontent.com/Wonde-Dev/E-commerce-web/main/sales.png)
 
-### 🛒 Testimonials Page
-![Cart Page]([./screenshots/cart.png](https://github.com/Wonde-Dev/E-commerce-web/blob/355041b1d19fabdea33186acd90ec2d9f5ea328c/testimonials.png))
+### ⭐ Testimonials Page
+![Testimonials Page](https://raw.githubusercontent.com/Wonde-Dev/E-commerce-web/main/testimonials.png)
 
 ---
 
