@@ -33,7 +33,7 @@ Add your project screenshots below:
 ![Home Page]([./screenshots/home.png](https://github.com/Wonde-Dev/E-commerce-web/blob/17ecee35a648f82eefc550af5dccde0fce964a8c/home.png))
 
 ### 🛍️ Product Page
-![Product Page](./screenshots/product.png)
+![Product Page]([./screenshots/product.png](https://github.com/Wonde-Dev/E-commerce-web/blob/b58ee9d65634e6efa2ceead31253873fd88eafab/products.png))
 
 ### 🛒 Sales Page
 ![Cart Page](./screenshots/cart.png)
