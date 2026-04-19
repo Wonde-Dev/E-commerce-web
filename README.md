@@ -30,7 +30,7 @@ A modern, responsive eCommerce web application built using **React** and **Tailw
 Add your project screenshots below:
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page]([./screenshots/home.png](https://github.com/Wonde-Dev/E-commerce-web/blob/17ecee35a648f82eefc550af5dccde0fce964a8c/home.png))
 
 ### 🛍️ Product Page
 ![Product Page](./screenshots/product.png)
